@@ -1,4 +1,4 @@
-package ConstructorTest_20;
+package Constructor_20.ConstructorTest_demo;
 /*
     创建对象并为其成员变量赋值的两种方式
     1：无参构造方法创建对象后使用setXxx()赋值

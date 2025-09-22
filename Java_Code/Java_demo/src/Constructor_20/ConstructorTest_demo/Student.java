@@ -1,4 +1,4 @@
-package ConstructorTest_20;
+package Constructor_20.ConstructorTest_demo;
 /*
     成员变量：
         使用private修饰
